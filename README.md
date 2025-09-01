@@ -124,6 +124,6 @@ MIT License
 - **Telegram (канал/блог)**: [RootTool Blog](https://t.me/RootToolBlog)
 - **Telegram (ЛС)**: [@RootTool28](https://t.me/RootTool28)
 - **Discord**: `.roottool` (или `RootTool#5776`)
-- **YouTube**: [RootTool](https://www.youtube.com/@RTEdits)
+- **YouTube**: [RootTool](https://www.youtube.com/@RTEdits0)
 
 _(прошу не беспокоить меня без причины)_
